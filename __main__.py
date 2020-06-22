@@ -5,7 +5,6 @@ import time
 from datetime import datetime
 import pkg_resources
 import json
-
 import urllib.request
 from werkzeug.utils import secure_filename
 from wtforms import StringField, PasswordField, SubmitField, BooleanField, TextAreaField
